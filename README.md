@@ -21,6 +21,8 @@ Press the "Use this template" button above to create a new repository to store y
 
 You can also just clone this repository directly if you do not want to track your user configuration in GitHub.
 
+this mi user conf
+
 #### Clone the repository
 
 ```shell
